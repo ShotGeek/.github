@@ -84,7 +84,7 @@ Ensure you have the following installed on your system:
 ## Contributing
 
 We welcome contributions from the open-source community. If you find any issues or want to suggest enhancements, feel free to create a pull request or submit an issue.
-For more information on contributing visit [https://github.com/Kudzmat/NoseBleedSection/blob/master/CONTRIBUTING.md](CONTRIBUTING.md)
+For more information on contributing visit [Contributing](https://github.com/ShotGeek/ShotGeek/blob/master/CONTRIBUTING.md)
 
 ## License
 

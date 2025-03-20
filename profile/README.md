@@ -49,15 +49,21 @@ Ensure you have the following installed on your system:
    ```sh
    pip install -r requirements.txt
    ```
-4. Set up the database:
+4. Uncomment DEVELOPMENT=True in .env:
+   ```vbnet
+   # .env
+   SECRET_KEY='django-insecure-enfgxe59+e1kt+c#unqrutb9y#_0)+aht&+@5@^r@pupks1wt8'
+   DEVELOPMENT=True
+   ```   
+6. Set up the database:
    ```sh
    python manage.py migrate
    ```
-5. Run the development server:
+7. Run the development server:
    ```sh
    python manage.py runserver
    ```
-6. Open your browser and visit: `http://127.0.0.1:8000/`
+8. Open your browser and visit: `http://127.0.0.1:8000/`
 
 ## Usage
 ### Searching for a Player
